@@ -1,0 +1,36 @@
+I heard some of you are good in computing math. Do you like some simultaneous equations?
+
+Let's have an example. We are given some equations.
+    example[0] + example[1] == 195
+    example[1] + example[2] == 197
+    example[2] + example[0] == 196
+
+Using simultaneous equations, we can solve it to get 'abc'
+    example[0] = 97 = 'a'
+    example[1] = 98 = 'b'
+    example[2] = 99 = 'c'
+
+
+Now, for the real deal. Good luck!.
+The flag is 21 characters long (ie. index 0 through 20).
+    flag[0] + flag[1] == 231
+    flag[1] + flag[2] == 233
+    flag[2] + flag[3] == 235
+    flag[3] + flag[4] == 190
+    flag[4] + flag[5] == 115
+    flag[5] + flag[6] == 125
+    flag[6] + flag[7] == 157
+    flag[7] + flag[8] == 165
+    flag[8] + flag[9] == 140
+    flag[9] + flag[10] == 160
+    flag[10] + flag[11] == 183
+    flag[11] + flag[12] == 149
+    flag[12] + flag[13] == 166
+    flag[13] + flag[14] == 172
+    flag[14] + flag[15] == 129
+    flag[15] + flag[16] == 136
+    flag[16] + flag[17] == 156
+    flag[17] + flag[18] == 105
+    flag[18] + flag[19] == 158
+    flag[19] + flag[20] == 135
+    flag[20] + flag[0] == 120
